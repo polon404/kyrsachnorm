@@ -25,6 +25,7 @@ import { ListGroup, Form, Button } from 'react-bootstrap';
 
 const Cart = ({ cart, removeFromCart, clearCart }) => {
   const [cardNumber, setCardNumber] = useState('');
+  const [phoneNumber, setPhoneNumber] = useState('');
   const [name, setName] = useState('');
   const [address, setAddress] = useState('');
   const [orderPlaced, setOrderPlaced] = useState(false);
@@ -32,7 +33,7 @@ const Cart = ({ cart, removeFromCart, clearCart }) => {
   const total = cart.reduce((acc, item) => acc + item.quantity * item.price, 0);
 
   const handleOrder = () => {
-    if (cardNumber && name && address) {
+    if (cardNumber && name && address && phoneNumber) {
       setOrderPlaced(true);
     } else {
       alert('Пожалуйста, заполните все поля.');
@@ -60,21 +61,25 @@ const Cart = ({ cart, removeFromCart, clearCart }) => {
 
       <Form>
         <Form.Group className="mb-3">
-          <Form.Label>Номер карты:</Form.Label>
-          <Form.Control type="text" value={cardNumber} onChange={(e) => setCardNumber(e.target.value)} />
-        </Form.Group>
-        <Form.Group className="mb-3">
           <Form.Label>Имя:</Form.Label>
           <Form.Control type="text" value={name} onChange={(e) => setName(e.target.value)} />
+        </Form.Group>
+        <Form.Group className="mb-3">
+           <Form.Label>Номер телефона:</Form.Label>
+           <Form.Control type="text" value={phoneNumber} onChange={(e) => setPhoneNumber(e.target.value)} />
         </Form.Group>
         <Form.Group className="mb-3">
           <Form.Label>Адрес:</Form.Label>
           <Form.Control type="text" value={address} onChange={(e) => setAddress(e.target.value)} />
         </Form.Group>
+        <Form.Group className="mb-3">
+          <Form.Label>Номер карты:</Form.Label>
+          <Form.Control type="text" value={cardNumber} onChange={(e) => setCardNumber(e.target.value)} />
+        </Form.Group>
         <Button onClick={handleOrder}>Заказать</Button>
       </Form>
 
-      {orderPlaced && <p>Заказ создан.</p>}
+      {orderPlaced && <p>Заказ создан. Позднее с Вами свяжется менеджер для уточнения деталей заказа.</p>}
     </div>
   );
 };
