@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\qwerty\\src\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\qwerty\\src\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\qwerty\\src\\pages\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\pages\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\qwerty\\src\\pages\\blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\pages\\blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\qwerty\\src\\components\\header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\components\\header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\qwerty\\src\\pages\\gallery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\pages\\gallery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\src\\Cart.js",
+              "RelativeDocumentMoniker": "src\\Cart.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\src\\Cart.js",
+              "RelativeToolTip": "src\\Cart.js",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-12T21:03:12.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\src\\Products.js",
+              "RelativeDocumentMoniker": "src\\Products.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\src\\Products.js",
+              "RelativeToolTip": "src\\Products.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-12T20:56:14.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\src\\Pages\\Blog.js",
+              "RelativeDocumentMoniker": "src\\Pages\\Blog.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\src\\Pages\\Blog.js",
+              "RelativeToolTip": "src\\Pages\\Blog.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-12T19:53:44.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gallery.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\src\\Pages\\Gallery.js",
+              "RelativeDocumentMoniker": "src\\Pages\\Gallery.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\src\\Pages\\Gallery.js",
+              "RelativeToolTip": "src\\Pages\\Gallery.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-12T20:34:24.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\src\\Pages\\Home.js",
+              "RelativeDocumentMoniker": "src\\Pages\\Home.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\src\\Pages\\Home.js",
+              "RelativeToolTip": "src\\Pages\\Home.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-12T16:33:36.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Header.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\src\\Components\\Header.js",
+              "RelativeDocumentMoniker": "src\\Components\\Header.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\qwerty\\src\\Components\\Header.js",
+              "RelativeToolTip": "src\\Components\\Header.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-12T19:27:04.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

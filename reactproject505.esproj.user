@@ -3,11 +3,11 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>LaunchJsonDebugger</DebuggerFlavor>
     <LaunchJsonTarget>{
+  "name": "localhost (Edge)",
   "type": "edge",
   "request": "launch",
-  "name": "localhost (Edge)",
   "url": "http://localhost:3000",
-  "webRoot": "C:\\Users\\фвьшт\\Desktop\\reactproject505"
+  "webRoot": "C:\\Users\\valen\\OneDrive\\Desktop\\для пидора"
 }</LaunchJsonTarget>
   </PropertyGroup>
 </Project>
