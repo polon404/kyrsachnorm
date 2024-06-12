@@ -5,8 +5,6 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from '../Pages/Home';
 import Catalog from '../Pages/Catalog';
 import Blog from '../Pages/Blog';
-import Gallery from '../Pages/Gallery';
-import Rules from '../Pages/Rules';
 import Contacts from '../Pages/Contacts';
 
 
@@ -22,7 +20,7 @@ export default class Header extends Component {
                         <img
                             src={logo}
                             height="30px"
-                            width="100px"
+                            width="30px"
                             className='d-inline-block align-top'
                             alt='Logo'
                         />
@@ -31,10 +29,9 @@ export default class Header extends Component {
                     <Navbar.Collapse id='responsive-navbar-nav'>
                         <Nav className='mr-auto'>
                             <Nav.Link href='/'> Главная </Nav.Link>
-                            <Nav.Link href='/catalog'> Билеты</Nav.Link>
-                            <Nav.Link href='/gallery'> Галлерея</Nav.Link>
-                            <Nav.Link href='/blog'> Подробности</Nav.Link>
-                            <Nav.Link href='/rules'>  Правила</Nav.Link>
+                            <Nav.Link href='/catalog'> Оформление заказа</Nav.Link>
+                            <Nav.Link href='/blog'>  </Nav.Link>
+                            <Nav.Link href='/contacts'>  </Nav.Link>
                         </Nav>
 
                     </Navbar.Collapse>
@@ -44,9 +41,8 @@ export default class Header extends Component {
                 <Routes>
                     <Route exact path='/' element={<Home/>} />
                     <Route exact path='/catalog' element={<Catalog/>} />
-                    <Route exact path='/gallery' element={<Gallery/>} />
                     <Route exact path='/blog' element={<Blog/>} />
-                    <Route exact path='/rules' element={<Rules/>} />
+                    <Route exact path='/contacts' element={<Contacts/>} />
                 </Routes>
             </Router>
             </>

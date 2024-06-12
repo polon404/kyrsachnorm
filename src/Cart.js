@@ -69,7 +69,7 @@ const Cart = ({ cart, removeFromCart, clearCart }) => {
            <Form.Control type="text" value={phoneNumber} onChange={(e) => setPhoneNumber(e.target.value)} />
         </Form.Group>
         <Form.Group className="mb-3">
-          <Form.Label>Email:</Form.Label>
+          <Form.Label>Адрес:</Form.Label>
           <Form.Control type="text" value={address} onChange={(e) => setAddress(e.target.value)} />
         </Form.Group>
         <Form.Group className="mb-3">
